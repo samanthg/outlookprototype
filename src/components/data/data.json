@@ -1,0 +1,86 @@
+[
+	{
+		"mId": "Creditcard@gmail.com",
+		"label": "spam",
+		"unread": true,
+		"subject" : "Pre Approved Loan",
+		"content" : "Congratulations ! <u>Credit card<u> is being shipped to you today!"
+	},
+	{
+		"mId": "IndianCricket@gmail.com",
+		"label": "spam",
+		"unread": true,
+		"subject" : "You won a lottery!",
+		"content" : "You have just won the New York official lottery. Please send us your address so that we may start the transfer."
+	},
+	{
+		"mId": "JobSearch@gmail.com",
+		"label": "spam",
+		"unread": true,
+		"subject" : "Pre Approved Loan",
+		"content" : "Congratulations ! <u>Credit card<u> is being shipped to you today!"
+    },
+    {
+		"mId": "WelcomeIndia@gmail.com",
+		"label": "inbox",
+		"unread": true,
+		"subject" : "Training Program",
+		"content" : "About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community."
+	},
+	{
+		"mId": "indianlead@gmail.com",
+		"label": "inbox",
+		"unread": false,
+		"subject" : "Empower your future",
+		"content" : "We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+	},
+	{
+		"mId": "software@gmail.com",
+		"label": "inbox",
+		"unread": false,
+		"subject" : "Empower your future",
+		"content" : "We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+	},
+	{
+		"mId": "Reactjs@gmail.com",
+		"label": "inbox",
+		"unread": false,
+		"subject" : "Empower your future",
+		"content" : "We foster our pipeline of future leaders with 47 employee networks and 7 global employee resource groups, servicing an active community of thousands across Microsoft"
+    },
+    {
+		"mId": "lucky@gmail.com",
+		"label": "trash",
+		"unread": true,
+		"subject" : "You won a lottery!",
+		"content" : "You have just won the New York official lottery. Please send us your address so that we may start the transfer."
+	},
+	{
+        "mId": "guid-5",
+        "label": "trash",
+		"unread": true,
+		"subject" : "You won the Game",
+		"content" : "Congratulations ! <u>Credit card<u> is being shipped to you today!"
+	},
+	{
+        "mId": "guid-6",
+        "label": "trash",
+		"unread": true,
+		"subject" : "You are so Lucky!",
+		"content" : "You have just won the New York official lottery. Please send us your address so that we may start the transfer."
+	},
+	{
+        "mId": "guid-7",
+        "label": "trash",
+		"unread": true,
+		"subject" : "You won the Game",
+		"content" : "Congratulations ! <u>Credit card<u> is being shipped to you today!"
+	},
+	{
+        "mId": "guid-8",
+        "label": "trash",
+		"unread": true,
+		"subject" : "You are so Lucky!",
+		"content" : "You have just won the New York official lottery. Please send us your address so that we may start the transfer."
+	}
+]
